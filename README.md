@@ -48,7 +48,7 @@ class SoftwareEngineer:
 
     def current_goal(self):
         return "Build useful, scalable and intelligent software"
-````
+```
 
 * 🎓 Information Technology student at **Ho Chi Minh City Open University**
 * 💼 **9 months** of professional working experience at **FPT**
