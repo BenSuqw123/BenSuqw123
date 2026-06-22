@@ -1,26 +1,34 @@
-````md
 <div align="center">
 
-# Hi, I'm Phan Minh Đăng 👋
+<h1>Hi, I'm Phan Minh Đăng 👋</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+AI+Developer;Building+Useful+Software;Always+Learning+New+Technologies"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+AI+Developer;Building+Useful+Software;Always+Learning+New+Technologies"
+alt="Typing animation"
 />
 
-<p>
-  <a href="mailto:phanminhdang363@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/dang-phan-800a10347/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://github.com/BenSuqw123">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/>
+
+<a href="mailto:phanminhdang363@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/dang-phan-800a10347/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/BenSuqw123">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
 </div>
 
@@ -48,14 +56,15 @@ class SoftwareEngineer:
 
     def current_goal(self):
         return "Build useful, scalable and intelligent software"
-````
+```
 
 * 🎓 Information Technology student at **Ho Chi Minh City Open University**
 * 💼 **9 months** of professional working experience at **FPT**
-* 🌐 Completed a website project as a **Freelance Developer**
+* 🌐 Completed a website project as a **Freelance Website Developer**
 * 🤖 Interested in **Backend Development, Artificial Intelligence and Web Applications**
 * 📚 Currently improving system design, API development and AI integration
 * 🌱 GPA: **3.5/4.0**
+* 📍 Based in **Ho Chi Minh City, Vietnam**
 
 ---
 
@@ -65,10 +74,10 @@ class SoftwareEngineer:
 
 `9 months`
 
-* Participated in developing and maintaining software features.
-* Worked with backend services, APIs and databases.
-* Supported testing, debugging and source-code improvements.
-* Collaborated with team members using Git-based workflows.
+* Participated in developing and maintaining software features based on project requirements.
+* Worked with backend services, REST APIs and databases.
+* Supported software testing, debugging and source-code improvements.
+* Collaborated with team members using Git-based development workflows.
 * Completed assigned tasks according to project requirements and deadlines.
 
 ### Freelance Website Developer
@@ -78,8 +87,8 @@ class SoftwareEngineer:
 * Communicated with the client to understand project requirements.
 * Designed and developed a responsive website.
 * Implemented the requested website features.
-* Tested and fixed issues before delivery.
-* Supported the client after deployment.
+* Tested and fixed issues before deployment.
+* Supported the client after project delivery.
 
 ---
 
@@ -88,45 +97,102 @@ class SoftwareEngineer:
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+    alt="C++"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+    alt="Flask"
+  />
+  <img
+    src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST API"
+  />
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-38BDF8?style=for-the-badge&logo=cssdesignawards&logoColor=white" alt="Responsive Design"/>
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/Responsive_Design-38BDF8?style=for-the-badge&logo=cssdesignawards&logoColor=white"
+    alt="Responsive Design"
+  />
 </p>
 
 ### Artificial Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Tesseract_OCR-22C55E?style=for-the-badge&logo=google&logoColor=white" alt="Tesseract OCR"/>
+  <img
+    src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"
+    alt="Artificial Intelligence"
+  />
+  <img
+    src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge&logo=tensorflow&logoColor=white"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
+    alt="OpenCV"
+  />
+  <img
+    src="https://img.shields.io/badge/Tesseract_OCR-22C55E?style=for-the-badge&logo=google&logoColor=white"
+    alt="Tesseract OCR"
+  />
 </p>
 
-### Databases and Tools
+### Databases and Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
+    alt="SQLite"
+  />
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+    alt="Visual Studio Code"
+  />
 </p>
 
 ---
@@ -140,14 +206,14 @@ class SoftwareEngineer:
 
 A desktop application for managing student information.
 
-**Features**
+### Features
 
 * Create, update, delete and search student records
 * Store and retrieve student information
 * Apply object-oriented programming principles
 * Organize the application using a basic MVC structure
 
-**Technologies**
+### Technologies
 
 `Python` `Tkinter` `SQLite` `OOP`
 
@@ -160,9 +226,9 @@ A desktop application for managing student information.
 
 <br/>
 
-A responsive landing page developed by a team of three members.
+A responsive product landing page developed by a team of three members.
 
-**Features**
+### Features
 
 * Responsive desktop and mobile interface
 * Product introduction sections
@@ -170,7 +236,7 @@ A responsive landing page developed by a team of three members.
 * Deployment through GitHub Pages
 * Team collaboration using Git and GitHub
 
-**Technologies**
+### Technologies
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
@@ -185,14 +251,14 @@ A responsive landing page developed by a team of three members.
 
 A demonstration system that extracts printed text from images.
 
-**Features**
+### Features
 
-* Image preprocessing
-* Printed text recognition
+* Image preprocessing with OpenCV
+* Printed text recognition with Tesseract OCR
 * OCR result display
 * Web interface for uploading images
 
-**Technologies**
+### Technologies
 
 `Python` `OpenCV` `Flask` `Tesseract OCR`
 
@@ -207,13 +273,13 @@ A demonstration system that extracts printed text from images.
 <img
 height="175"
 src="https://github-readme-stats.vercel.app/api?username=BenSuqw123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-alt="GitHub Statistics"
+alt="Phan Minh Dang GitHub statistics"
 />
 
 <img
 height="175"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenSuqw123&layout=compact&theme=tokyonight&hide_border=true"
-alt="Most Used Languages"
+alt="Most used programming languages"
 />
 
 </div>
@@ -231,7 +297,7 @@ alt="Most Used Languages"
 * 2023 – Present
 * GPA: **3.5/4.0**
 
-**Relevant coursework**
+### Relevant Coursework
 
 * Data Structures and Algorithms
 * Object-Oriented Programming
@@ -265,8 +331,8 @@ alt="Most Used Languages"
 />
 
 <img
- alt="GitHub contribution snake animation"
  src="https://raw.githubusercontent.com/BenSuqw123/BenSuqw123/output/github-contribution-grid-snake.svg"
+ alt="GitHub contribution snake animation"
 /> </picture>
 
 </div>
@@ -275,17 +341,22 @@ alt="Most Used Languages"
 
 <div align="center">
 
-### Let's build something useful together 🚀
+<h3>Let's build something useful together 🚀</h3>
 
-**Software Engineer · Backend Developer · AI Developer**
+<p>
+  <strong>Software Engineer · Backend Developer · AI Developer</strong>
+</p>
 
 <a href="mailto:phanminhdang363@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+  <img
+    src="https://img.shields.io/badge/Contact_Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contact Me"
+  />
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
-⭐ From [BenSuqw123](https://github.com/BenSuqw123)
+⭐ From <a href="https://github.com/BenSuqw123">BenSuqw123</a>
 
 </div>
-```
